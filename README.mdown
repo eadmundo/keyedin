@@ -1,0 +1,14 @@
+# Keyedin
+
+Harmonic mixing database using [Django Rest Framework](http://www.django-rest-framework.org)
+
+## Setup
+
+(in a [virtualenv](http://virtualenvwrapper.readthedocs.org/en/latest/))
+
+    $ pip install -r requirements.txt
+    $ ./manage.py migrate
+    $ ./manage.py loaddata keys
+    $ ./manage.py runserver
+
+browse to [http://localhost:8000](http://localhost:8000)

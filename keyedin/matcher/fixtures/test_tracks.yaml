@@ -1,0 +1,35 @@
+- model: matcher.track
+  pk: 1
+  fields:
+    name: 'C Major at 130BPM'
+    artist: 'Artist 1'
+    key: 1
+    bpm: 130
+- model: matcher.track
+  pk: 2
+  fields:
+    name: 'C Major at 133BPM'
+    artist: 'Artist 2'
+    key: 1
+    bpm: 133
+- model: matcher.track
+  pk: 3
+  fields:
+    name: 'C Major at 127BPM'
+    artist: 'Artist 3'
+    key: 1
+    bpm: 127
+- model: matcher.track
+  pk: 4
+  fields:
+    name: 'G Major at 131BPM'
+    artist: 'Artist 4'
+    key: 15
+    bpm: 131
+- model: matcher.track
+  pk: 5
+  fields:
+    name: 'A Minor at 129BPM'
+    artist: 'Artist 3'
+    key: 20
+    bpm: 129

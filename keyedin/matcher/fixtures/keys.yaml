@@ -1,0 +1,144 @@
+- model: matcher.key
+  pk: 1
+  fields:
+    number: 1
+    name: C
+    minor: False
+- model: matcher.key
+  pk: 2
+  fields:
+    number: 1
+    name: C
+    minor: True
+- model: matcher.key
+  pk: 3
+  fields:
+    number: 2
+    name: C#
+    minor: False
+- model: matcher.key
+  pk: 4
+  fields:
+    number: 2
+    name: C#
+    minor: True
+- model: matcher.key
+  pk: 5
+  fields:
+    number: 3
+    name: D
+    minor: False
+- model: matcher.key
+  pk: 6
+  fields:
+    number: 3
+    name: D
+    minor: True
+- model: matcher.key
+  pk: 7
+  fields:
+    number: 4
+    name: D#
+    minor: False
+- model: matcher.key
+  pk: 8
+  fields:
+    number: 4
+    name: D#
+    minor: True
+- model: matcher.key
+  pk: 9
+  fields:
+    number: 5
+    name: E
+    minor: False
+- model: matcher.key
+  pk: 10
+  fields:
+    number: 5
+    name: E
+    minor: True
+- model: matcher.key
+  pk: 11
+  fields:
+    number: 6
+    name: F
+    minor: False
+- model: matcher.key
+  pk: 12
+  fields:
+    number: 6
+    name: F
+    minor: True
+- model: matcher.key
+  pk: 13
+  fields:
+    number: 7
+    name: F#
+    minor: False
+- model: matcher.key
+  pk: 14
+  fields:
+    number: 7
+    name: F#
+    minor: True
+- model: matcher.key
+  pk: 15
+  fields:
+    number: 8
+    name: G
+    minor: False
+- model: matcher.key
+  pk: 16
+  fields:
+    number: 8
+    name: G
+    minor: True
+- model: matcher.key
+  pk: 17
+  fields:
+    number: 9
+    name: G#
+    minor: False
+- model: matcher.key
+  pk: 18
+  fields:
+    number: 9
+    name: G#
+    minor: True
+- model: matcher.key
+  pk: 19
+  fields:
+    number: 10
+    name: A
+    minor: False
+- model: matcher.key
+  pk: 20
+  fields:
+    number: 10
+    name: A
+    minor: True
+- model: matcher.key
+  pk: 21
+  fields:
+    number: 11
+    name: A#
+    minor: False
+- model: matcher.key
+  pk: 22
+  fields:
+    number: 11
+    name: A#
+    minor: True
+- model: matcher.key
+  pk: 23
+  fields:
+    number: 12
+    name: B
+    minor: False
+- model: matcher.key
+  pk: 24
+  fields:
+    number: 12
+    name: B
+    minor: True
